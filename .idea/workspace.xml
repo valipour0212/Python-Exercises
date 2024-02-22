@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4a33d3b-7f86-467f-a259-fb98f9f00475" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/Exercise1/Question" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/Exercise1/main.py" afterDir="false" />
+    <list default="true" id="c4a33d3b-7f86-467f-a259-fb98f9f00475" name="Changes" comment="Exercise 1">
+      <change afterPath="$PROJECT_DIR$/Chapter1/Exercise2/Question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/Exercise2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +41,20 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Projects/Python/Python Exercises/Python Exercises",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Projects/Python/Python Exercises/Python Exercises/Chapter1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Python\Python Exercises\Python Exercises\Chapter1" />
       <recent name="D:\Projects\Python\Python Exercises\Python Exercises" />
     </key>
   </component>
@@ -77,11 +73,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708603040180</updated>
-      <workItem from="1708603062770" duration="1317000" />
+      <workItem from="1708603062770" duration="2163000" />
     </task>
+    <task id="LOCAL-00001" summary="Exercise 1">
+      <option name="closed" value="true" />
+      <created>1708604441093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708604441093</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Exercises$main.coverage" NAME="main Coverage Results" MODIFIED="1708604345702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Exercise1" />
   </component>
 </project>
